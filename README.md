@@ -9,10 +9,14 @@ A simple AI agent built using LangGraph that analyzes daily business metrics and
 - Compares revenue and cost changes
 - Provides actionable insights
 
-## Setup
+## Create
+
+create .env file like .env.sample
+
+## Install
 
 ```bash
-pip install langgraph langchain openai
+pip install -r requirements.txt
 ```
 
 ## Run
