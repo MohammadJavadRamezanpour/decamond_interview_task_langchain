@@ -1,0 +1,4 @@
+langgraph-cli[inmem]
+langgraph
+langchain
+openai

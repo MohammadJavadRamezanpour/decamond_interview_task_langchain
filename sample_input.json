@@ -1,0 +1,12 @@
+{
+  "today": {
+    "revenue": 1500,
+    "cost": 1000,
+    "customers": 50
+  },
+  "yesterday": {
+    "revenue": 1000,
+    "cost": 700,
+    "customers": 50
+  }
+}
